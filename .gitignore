@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+
+# Credentials & Secrets (CRITICAL)
+.env
+.env.*
+*.key
+*.pem
+
+# Outputs & Generated Academic Content
+outputs/
+*.pdf
+*.log
+generator.log
+"2 - Materiales Académicos/"
+
+# OS
+.DS_Store
+Thumbs.db

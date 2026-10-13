@@ -1,0 +1,24 @@
+# ==============================================================
+# FÍSICA Y QUÍMICA 1º BACH - CNSR - TRABAJOS PENDIENTES FINALES
+# ==============================================================
+
+- profile: quimica_1bach_cnsr
+  topic: "Leyes Fundamentales de los Gases Ideales"
+  course: "Química 1º BACH"
+  difficulty: 4
+  quantity: 5
+  quality: pro
+
+- profile: quimica_1bach_cnsr
+  topic: "Disoluciones - Molaridad y Fracción Molar"
+  course: "Química 1º BACH"
+  difficulty: 4
+  quantity: 5
+  quality: pro
+
+- profile: quimica_1bach_cnsr
+  topic: "Estequiometría con Reactivo Limitante"
+  course: "Química 1º BACH"
+  difficulty: 4
+  quantity: 5
+  quality: pro

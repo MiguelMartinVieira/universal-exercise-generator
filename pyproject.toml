@@ -1,0 +1,25 @@
+[project]
+name = "universal-exercise-generator"
+version = "1.0.0"
+description = "Autonomous AI curriculum & problem-set engine with declarative YAML profiles and automated LaTeX compilation"
+readme = "README.md"
+authors = [
+    { name = "Miguel Martín Vieira", email = "miguel.martin.vieira@gmail.com" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = [
+    "pyyaml>=6.0.1",
+    "google-generativeai>=0.8.0",
+    "python-dotenv>=1.0.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "ruff>=0.4.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
